@@ -1,4 +1,4 @@
-package com.example.guest.mymessanger;
+package com.example.guest.mymessenger;
 
 import org.junit.Test;
 

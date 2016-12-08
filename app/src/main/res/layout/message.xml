@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginRight="20dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginBottom="5dp"
+    android:layout_marginTop="5dp">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jackson Meyer"
+            android:id="@+id/userName"
+            android:background="@color/colorAccent"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Date"
+            android:id="@+id/date"
+            android:background="@color/colorAccent"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:layout_alignTop="@+id/userName"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hey Bro, I just wanted to check in with you"
+        android:id="@+id/messageBody"
+        android:background="@color/message"
+        android:layout_marginBottom="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        />
+</LinearLayout>

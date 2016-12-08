@@ -49,6 +49,50 @@
           "status": 2
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758427921818:android:7aedae3c150e6c79",
+        "android_client_info": {
+          "package_name": "com.example.guest.mymessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758427921818-imhcc9pea4innp7r1edjtmc16s70vl9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guest.mymessenger",
+            "certificate_hash": "790C05F1D70B7F29E9432AF660B3001B6A4FC816"
+          }
+        },
+        {
+          "client_id": "758427921818-cdb82p7gubt28ve2v91feo3q49cc6k68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAALwMdAG5KAs5HiqZRnEipD96t0qxcT2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758427921818-cdb82p7gubt28ve2v91feo3q49cc6k68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
     }
   ],
   "configuration_version": "1"

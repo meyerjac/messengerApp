@@ -1,0 +1,19 @@
+{
+  "messages" : {
+    "0":{
+      "user": "Yusuf",
+      "date": 1481153500,
+      "body": "hello"
+    },
+    "1":{
+      "user": "Jackson",
+      "date": 1481153613,
+      "body": "ooga booga"
+    },
+    "2":{
+      "user": "Adam",
+      "date": 1481153670,
+      "body": "welcome to android"
+    }
+  }
+}

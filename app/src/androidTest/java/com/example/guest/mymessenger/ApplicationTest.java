@@ -1,4 +1,4 @@
-package com.example.guest.mymessanger;
+package com.example.guest.mymessenger;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

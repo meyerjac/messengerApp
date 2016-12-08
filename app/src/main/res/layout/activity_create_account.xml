@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.guest.mymessanger.ui.CreateAccountActivity"
+    tools:context="com.example.guest.mymessenger.ui.CreateAccountActivity"
     android:background="@color/colorPrimary">
 
     <LinearLayout
